@@ -42,6 +42,7 @@ dcproccer/
 │ ├── api.go
 │ ├── documentprocessor.go
 │ └── documentprocessor_internal_test.go
+│ └── app/api_internal_test.go
 ├── store/
 │ ├── config.go
 │ ├── documentrepository.go
