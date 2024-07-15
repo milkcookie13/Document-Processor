@@ -67,12 +67,12 @@ dcproccer/
 
 1. Клонируйте репозиторий:
     ```sh
-    git clone https://github.com/milkcookie13/Document-Processor-.git
+    git clone https://github.com/milkcookie13/Document-Processor.git
     ```
 
 2. Перейдите в директорию проекта:
     ```sh
-    cd dcproccer
+    cd Document-Processor
     ```
 
 3. Установите зависимости:
