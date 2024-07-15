@@ -79,6 +79,10 @@ dcproccer/
     ```sh
     go mod tidy
     ```
+4. Запустить тесты:
+   ```sh
+   go test ./...
+   ```
 
 
 
