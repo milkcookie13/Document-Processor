@@ -66,6 +66,10 @@ dcproccer/
 
 ## Установка
 
+Требования
+Go 1.18 или выше
+Git
+
 1. Клонируйте репозиторий:
     ```sh
     git clone https://github.com/milkcookie13/Document-Processor.git
